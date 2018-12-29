@@ -55,10 +55,10 @@ sw.log("Channel Access Token : " + str(channel11.channelAccessToken))
 
 poll = LinePoll(cl)
 call = cl
-creator = ["uafd65893655c791f07c9ff31cbbc28d1"]
-owner = ["uafd65893655c791f07c9ff31cbbc28d1"]
-admin = ["uafd65893655c791f07c9ff31cbbc28d1"]
-staff = ["uafd65893655c791f07c9ff31cbbc28d1"]
+creator = ["u92da257539ee230b60c1d460bab85015"]
+owner = ["u92da257539ee230b60c1d460bab85015"]
+admin = ["u92da257539ee230b60c1d460bab85015"]
+staff = ["u92da257539ee230b60c1d460bab85015"]
 mid = cl.getProfile().mid
 Amid = ki.getProfile().mid
 Bmid = kk.getProfile().mid
